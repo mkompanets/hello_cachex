@@ -1,6 +1,6 @@
 # HelloCachex
 
-**TODO: Add description**
+**An Example Cachex App**
 
 ## Installation
 
